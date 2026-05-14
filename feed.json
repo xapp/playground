@@ -1,0 +1,128 @@
+{
+  "contactURL" : "https://extension.app/support",
+  "documents" : [
+    {
+      "additionalInformation" : [
+        {
+          "name" : "Publisher",
+          "value" : "X.app"
+        },
+        {
+          "name" : "Version",
+          "value" : "2026.5.1"
+        },
+        {
+          "name" : "Released",
+          "value" : "2026-05-01T00:00:00+00:00"
+        },
+        {
+          "name" : "Edition",
+          "value" : "Swift 6"
+        },
+        {
+          "name" : "Languages",
+          "value" : "English and Russian"
+        }
+      ],
+      "attributes" : [
+        "appBuilding",
+        "appLike",
+        "codingBasics",
+        "projectBased",
+        "designOriented",
+        "dataStructuresAndAlgorithms"
+      ],
+      "authorChosenUpNext" : "app.x.Playground.Book",
+      "bannerImageURL" : "app/banner.png",
+      "contentIdentifier" : "app.x.Playground.App",
+      "contentVersion" : "2026.5.1",
+      "description" : "X.app is a Playground App for Swift Playground with a collection of extensions.",
+      "detailSubtitle" : "All-in-One Extension App",
+      "difficultyLevel" : "advanced",
+      "lastUpdatedDate" : "2026-05-01T00:00:00+00:00",
+      "overviewSubtitle" : "All-in-One Extension App",
+      "previewImageURLs" : [
+        "app/preview-1.png",
+        "app/preview-2.png",
+        "app/preview-3.png",
+        "app/preview-4.png"
+      ],
+      "publishedDate" : "2026-05-01T00:00:00+00:00",
+      "requiredCapabilities" : [
+
+      ],
+      "sha512" : "b417e7818c1393b8217964f26b566aa9de7cb625b28a788cb5c0b915ef691f384dcbeefc84a2cc9326aeb37cde4068d80e4ce57f331864ac63bde3194817ab11",
+      "supportedDevices" : [
+        "iPad",
+        "Mac"
+      ],
+      "thumbnailURL" : "app/thumbnail.png",
+      "title" : "X.app (Playground) App",
+      "url" : "app/xapp.playground.app.swiftpm.zip"
+    },
+    {
+      "additionalInformation" : [
+        {
+          "name" : "Publisher",
+          "value" : "X.app"
+        },
+        {
+          "name" : "Version",
+          "value" : "2026.5.1"
+        },
+        {
+          "name" : "Released",
+          "value" : "2026-05-01T00:00:00+00:00"
+        },
+        {
+          "name" : "Edition",
+          "value" : "Swift 6"
+        },
+        {
+          "name" : "Languages",
+          "value" : "English and Russian"
+        }
+      ],
+      "attributes" : [
+        "appBuilding",
+        "appLike",
+        "codingBasics",
+        "projectBased",
+        "designOriented",
+        "dataStructuresAndAlgorithms"
+      ],
+      "authorChosenUpNext" : "app.x.Playground.App",
+      "bannerImageURL" : "book/banner.png",
+      "contentIdentifier" : "app.x.Playground.Book",
+      "contentVersion" : "2026.5.1",
+      "description" : "X.app is a Playground Book for Swift Playground with a collection of extensions.",
+      "detailSubtitle" : "All-in-One Extension App",
+      "difficultyLevel" : "advanced",
+      "lastUpdatedDate" : "2026-05-01T00:00:00+00:00",
+      "overviewSubtitle" : "All-in-One Extension App",
+      "previewImageURLs" : [
+        "book/preview-1.png",
+        "book/preview-2.png",
+        "book/preview-3.png",
+        "book/preview-4.png"
+      ],
+      "publishedDate" : "2026-05-01T00:00:00+00:00",
+      "requiredCapabilities" : [
+
+      ],
+      "sha512" : "ad5452b8480be2b9000303fbb5e301912ece5fd35a42e8d1641e657f1ea0d57aa97f0fcb2edd835039f7f73827a38f8ca769beb3c5a60d40835a148180bee896",
+      "supportedDevices" : [
+        "iPad",
+        "Mac"
+      ],
+      "thumbnailURL" : "book/thumbnail.png",
+      "title" : "X.app (Playground) Book",
+      "url" : "book/xapp.playground.book.playgroundbook.zip"
+    }
+  ],
+  "feedIdentifier" : "app.x",
+  "formatVersion" : "1.2",
+  "publisherName" : "X.app",
+  "subtitle" : "All-in-One Extension App",
+  "title" : "X.app"
+}
